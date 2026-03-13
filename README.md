@@ -93,7 +93,7 @@ Open an issue or drop it in Discussions.
 ---
 
 ## Made by
-[Your name] · [Your LinkedIn or site]  
+[Melanie Gower] · [www.linkedin.com/in/melaniegower]  
 Built with Claude's skill system.
 
 ⭐ Star this repo if you find it useful — helps others discover it.
