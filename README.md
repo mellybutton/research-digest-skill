@@ -45,7 +45,7 @@ Cowork runs it automatically whenever your computer is on.
 ## Install
 
 ### Option A — Claude.ai (web)
-1. Download `research-digest-skill.skill` from [Releases](link)
+1. Download `research-digest-skill.skill` from [Releases](https://github.com/mellybutton/research-digest-skill/releases/tag/v1.0)
 2. Go to Claude.ai → Settings → Skills → Upload Skill
 3. Done.
 
